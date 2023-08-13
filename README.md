@@ -8,7 +8,8 @@
 
 ### 📟Project
 * In The BUS 버스 내부 정보 예측 서비스
-* ![](https://velog.velcdn.com/images/sslgo15/post/87e9decf-dca5-4ee5-a156-f719621acd81/image.png)
+    - 길찾기 기능, 내부 혼잡도 예측 알고리즘, 데이터 가공 기능 등 개발
+
 
 ### BLOG
 <a href="https://velog.io/@sslgo15"><img src="https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white&link=https%3A%2F%2Fvelog.io%2F%40sslgo15"></a>
