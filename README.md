@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 
 ### 👞Career
-* 스마트인재개발원 (04.27 ~ 11.27)
+* 스마트인재개발원 (23.04.27 ~ 23.11.27)
 
 ### 📟Project
 * In The BUS 버스 내부 정보 예측 서비스
