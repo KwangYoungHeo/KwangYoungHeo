@@ -19,12 +19,14 @@
 
 ### 📟Project
 * In The BUS 버스 내부 정보 예측 서비스
-    - 길찾기 기능 구현
-    - 노선 검색 기능 구현
-    - 즐겨찾기 기능 구현
+    - 길찾기 기능 구현, 노선 검색 기능 구현, 즐겨찾기 기능 구현
+        - Odsay LAB, TAGO Open API, ajax 사용
     - 로그인, 회원가입 기능 구현
+        - Kakao Login API 사용
     - DB설계 및 구축
+        - Oracle DB 사용
     - 버스 승하차 데이터 가공
+        - Python 데이터 전처리
     - 혼잡도 예측 알고리즘 작성
 <hr>
 
